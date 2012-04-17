@@ -29,7 +29,7 @@ window.onload = function()
             this.css("width", "40");
             this.css("height", "40");
             
-            this.bind("click", function() {
+            this.bind("Click", function() {
 
                 this._i++;
                 
